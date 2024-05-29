@@ -1,0 +1,1 @@
+G:\source\repos\MessageExchange\MessageReceiver\obj\Debug\MessageReceiver.Client.esproj.CoreCompileInputs.cache

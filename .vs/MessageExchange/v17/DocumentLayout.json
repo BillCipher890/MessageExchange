@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\source\\repos\\MessageExchange\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8BB840-37A3-44CA-9F2F-8FD6A5A9E1E4}|MessageExchangeTest\\MessageExchangeTest.csproj|g:\\source\\repos\\messageexchange\\messageexchangetest\\messagerepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8BB840-37A3-44CA-9F2F-8FD6A5A9E1E4}|MessageExchangeTest\\MessageExchangeTest.csproj|solutionrelative:messageexchangetest\\messagerepositorytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7D9EAE-65F7-478C-8499-C723B929287E}|MessageExchange.Server\\MessageExchange.Server.csproj|G:\\source\\repos\\MessageExchange\\messageexchange.server\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7D9EAE-65F7-478C-8499-C723B929287E}|MessageExchange.Server\\MessageExchange.Server.csproj|solutionrelative:messageexchange.server\\repositories\\messagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A8BB840-37A3-44CA-9F2F-8FD6A5A9E1E4}|MessageExchangeTest\\MessageExchangeTest.csproj|G:\\source\\repos\\MessageExchange\\messageexchangetest\\postgresqlexecutortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A8BB840-37A3-44CA-9F2F-8FD6A5A9E1E4}|MessageExchangeTest\\MessageExchangeTest.csproj|solutionrelative:messageexchangetest\\postgresqlexecutortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7D9EAE-65F7-478C-8499-C723B929287E}|MessageExchange.Server\\MessageExchange.Server.csproj|G:\\source\\repos\\MessageExchange\\messageexchange.server\\sql\\postgresqlexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7D9EAE-65F7-478C-8499-C723B929287E}|MessageExchange.Server\\MessageExchange.Server.csproj|solutionrelative:messageexchange.server\\sql\\postgresqlexecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA74F14B-8133-431E-B237-9F5B6EE98DFB}|MessageDateChecker\\MessageDateChecker.Client.esproj|G:\\source\\repos\\MessageExchange\\messagedatechecker\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FA74F14B-8133-431E-B237-9F5B6EE98DFB}|MessageDateChecker\\MessageDateChecker.Client.esproj|solutionrelative:messagedatechecker\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A450DAB8-376C-420F-9E29-858C5747AD8D}|MessageReceiver\\MessageReceiver.Client.esproj|G:\\source\\repos\\MessageExchange\\messagereceiver\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A450DAB8-376C-420F-9E29-858C5747AD8D}|MessageReceiver\\MessageReceiver.Client.esproj|solutionrelative:messagereceiver\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{822AFAFD-F5E6-4EF3-82AE-A756236D89EF}|messageexchange.client\\MessageSender.Client.esproj|G:\\source\\repos\\MessageExchange\\messageexchange.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{822AFAFD-F5E6-4EF3-82AE-A756236D89EF}|messageexchange.client\\MessageSender.Client.esproj|solutionrelative:messageexchange.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7D9EAE-65F7-478C-8499-C723B929287E}|MessageExchange.Server\\MessageExchange.Server.csproj|G:\\source\\repos\\MessageExchange\\messageexchange.server\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7D9EAE-65F7-478C-8499-C723B929287E}|MessageExchange.Server\\MessageExchange.Server.csproj|solutionrelative:messageexchange.server\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC7D9EAE-65F7-478C-8499-C723B929287E}|MessageExchange.Server\\MessageExchange.Server.csproj|G:\\source\\repos\\MessageExchange\\messageexchange.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC7D9EAE-65F7-478C-8499-C723B929287E}|MessageExchange.Server\\MessageExchange.Server.csproj|solutionrelative:messageexchange.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MessageRepositoryTest.cs",
+              "DocumentMoniker": "G:\\source\\repos\\MessageExchange\\MessageExchangeTest\\MessageRepositoryTest.cs",
+              "RelativeDocumentMoniker": "MessageExchangeTest\\MessageRepositoryTest.cs",
+              "ToolTip": "G:\\source\\repos\\MessageExchange\\MessageExchangeTest\\MessageRepositoryTest.cs",
+              "RelativeToolTip": "MessageExchangeTest\\MessageRepositoryTest.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAawC4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:37:40.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PostgreSQLExecutorTest.cs",
+              "DocumentMoniker": "G:\\source\\repos\\MessageExchange\\MessageExchangeTest\\PostgreSQLExecutorTest.cs",
+              "RelativeDocumentMoniker": "MessageExchangeTest\\PostgreSQLExecutorTest.cs",
+              "ToolTip": "G:\\source\\repos\\MessageExchange\\MessageExchangeTest\\PostgreSQLExecutorTest.cs",
+              "RelativeToolTip": "MessageExchangeTest\\PostgreSQLExecutorTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:08:14.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PostgreSQLExecutor.cs",
+              "DocumentMoniker": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\SQL\\PostgreSQLExecutor.cs",
+              "RelativeDocumentMoniker": "MessageExchange.Server\\SQL\\PostgreSQLExecutor.cs",
+              "ToolTip": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\SQL\\PostgreSQLExecutor.cs",
+              "RelativeToolTip": "MessageExchange.Server\\SQL\\PostgreSQLExecutor.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEoAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:04:20.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.jsx",
+              "DocumentMoniker": "G:\\source\\repos\\MessageExchange\\messagereceiver\\src\\App.jsx",
+              "RelativeDocumentMoniker": "messagereceiver\\src\\App.jsx",
+              "ToolTip": "G:\\source\\repos\\MessageExchange\\messagereceiver\\src\\App.jsx",
+              "RelativeToolTip": "messagereceiver\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-28T17:28:57.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.jsx",
+              "DocumentMoniker": "G:\\source\\repos\\MessageExchange\\messageexchange.client\\src\\App.jsx",
+              "RelativeDocumentMoniker": "messageexchange.client\\src\\App.jsx",
+              "ToolTip": "G:\\source\\repos\\MessageExchange\\messageexchange.client\\src\\App.jsx",
+              "RelativeToolTip": "messageexchange.client\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-27T17:52:21.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.jsx",
+              "DocumentMoniker": "G:\\source\\repos\\MessageExchange\\messagedatechecker\\src\\App.jsx",
+              "RelativeDocumentMoniker": "messagedatechecker\\src\\App.jsx",
+              "ToolTip": "G:\\source\\repos\\MessageExchange\\messagedatechecker\\src\\App.jsx",
+              "RelativeToolTip": "messagedatechecker\\src\\App.jsx",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-27T17:49:20.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\Program.cs",
+              "RelativeDocumentMoniker": "MessageExchange.Server\\Program.cs",
+              "ToolTip": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\Program.cs",
+              "RelativeToolTip": "MessageExchange.Server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:55:35.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "MessageExchange.Server\\Controllers\\MessageController.cs",
+              "ToolTip": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "MessageExchange.Server\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:52:09.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MessageRepository.cs",
+              "DocumentMoniker": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\Repositories\\MessageRepository.cs",
+              "RelativeDocumentMoniker": "MessageExchange.Server\\Repositories\\MessageRepository.cs",
+              "ToolTip": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\Repositories\\MessageRepository.cs",
+              "RelativeToolTip": "MessageExchange.Server\\Repositories\\MessageRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T15:53:43.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

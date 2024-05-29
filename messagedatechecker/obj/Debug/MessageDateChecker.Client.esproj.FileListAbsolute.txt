@@ -1,0 +1,1 @@
+G:\source\repos\MessageExchange\MessageDateChecker\obj\Debug\MessageDateChecker.Client.esproj.CoreCompileInputs.cache
