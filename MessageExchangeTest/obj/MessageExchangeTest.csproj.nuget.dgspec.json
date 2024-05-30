@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\source\\repos\\MessageExchange\\MessageExchangeTest\\MessageExchangeTest.csproj": {}
+    "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchangeTest\\MessageExchangeTest.csproj": {}
   },
   "projects": {
-    "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj": {
+    "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj",
+        "projectUniqueName": "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj",
         "projectName": "MessageExchange.Server",
-        "projectPath": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj",
+        "projectPath": "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\obj\\",
+        "outputPath": "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchange.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,10 @@
               "target": "Package",
               "version": "[8.*-*, )"
             },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.6, )"
+            },
             "Npgsql": {
               "target": "Package",
               "version": "[8.0.3, )"
@@ -81,14 +85,14 @@
         }
       }
     },
-    "G:\\source\\repos\\MessageExchange\\MessageExchangeTest\\MessageExchangeTest.csproj": {
+    "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchangeTest\\MessageExchangeTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\source\\repos\\MessageExchange\\MessageExchangeTest\\MessageExchangeTest.csproj",
+        "projectUniqueName": "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchangeTest\\MessageExchangeTest.csproj",
         "projectName": "MessageExchangeTest",
-        "projectPath": "G:\\source\\repos\\MessageExchange\\MessageExchangeTest\\MessageExchangeTest.csproj",
+        "projectPath": "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchangeTest\\MessageExchangeTest.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\source\\repos\\MessageExchange\\MessageExchangeTest\\obj\\",
+        "outputPath": "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchangeTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -105,8 +109,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj": {
-                "projectPath": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj"
+              "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj": {
+                "projectPath": "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj"
               }
             }
           }

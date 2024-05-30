@@ -11,7 +11,12 @@ Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "MessageReceiver.Client", "M
 EndProject
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "MessageDateChecker.Client", "MessageDateChecker\MessageDateChecker.Client.esproj", "{FA74F14B-8133-431E-B237-9F5B6EE98DFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageExchangeTest", "MessageExchangeTest\MessageExchangeTest.csproj", "{4A8BB840-37A3-44CA-9F2F-8FD6A5A9E1E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessageExchangeTest", "MessageExchangeTest\MessageExchangeTest.csproj", "{4A8BB840-37A3-44CA-9F2F-8FD6A5A9E1E4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{45189657-0012-44B6-8F31-11D878F1DD2D}"
+	ProjectSection(SolutionItems) = preProject
+		docker-compose.yml = docker-compose.yml
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

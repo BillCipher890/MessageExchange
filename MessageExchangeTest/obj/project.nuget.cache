@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o/Qb6+UiPe6r+Zf0KJR3idrwCLGP6Ck9MHLnTK7vgK7wd4pg49hc6Z6mB624ps2b9JlJcstM65N661pKoDQpWQ==",
+  "dgSpecHash": "BCpr6YPrRgV10RS58rTwEOI+9XhvXBayqLK8tXdhxajNbLK9Bk7oxBMvFOP7nPTkYtwVJJHbShloB7ZFkzm5eA==",
   "success": true,
-  "projectFilePath": "G:\\source\\repos\\MessageExchange\\MessageExchangeTest\\MessageExchangeTest.csproj",
+  "projectFilePath": "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchangeTest\\MessageExchangeTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
@@ -17,6 +17,7 @@
     "C:\\Users\\User\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.8.0\\microsoft.testplatform.objectmodel.17.8.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.testplatform.testhost\\17.8.0\\microsoft.testplatform.testhost.17.8.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",

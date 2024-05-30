@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj": {}
+    "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj": {}
   },
   "projects": {
-    "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj": {
+    "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj",
+        "projectUniqueName": "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj",
         "projectName": "MessageExchange.Server",
-        "projectPath": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj",
+        "projectPath": "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchange.Server\\MessageExchange.Server.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "G:\\source\\repos\\MessageExchange\\MessageExchange.Server\\obj\\",
+        "outputPath": "G:\\source\\repos\\MessageExchange\\MessageExchange\\MessageExchange.Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,6 +48,10 @@
             "Microsoft.AspNetCore.SpaProxy": {
               "target": "Package",
               "version": "[8.*-*, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.6, )"
             },
             "Npgsql": {
               "target": "Package",

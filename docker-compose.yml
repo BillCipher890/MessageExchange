@@ -1,0 +1,41 @@
+version: '3.8'
+
+services:
+  messagedatecheckerclient:
+    build:
+      context: ./messagedatechecker/
+      dockerfile: Dockerfile
+    ports:
+      - "5171:5171"
+    environment:
+      - PORT=5171
+
+  messagereceiverclient:
+    build:
+      context: ./messagereceiver/
+      dockerfile: Dockerfile
+    ports:
+      - "5172:5172"
+    environment:
+      - PORT=5172
+
+  messagesenderclient:
+    build:
+      context: ./messageexchange.client/
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    environment:
+      - PORT=5173
+
+  messageexchangeserver:
+    build:
+      context: ./MessageExchange.Server/  
+      dockerfile: Dockerfile
+    ports:
+      - "7034:7034"
+      - "5230:5230"
+    depends_on:
+      - messagedatecheckerclient
+      - messagereceiverclient
+      - messagesenderclient
